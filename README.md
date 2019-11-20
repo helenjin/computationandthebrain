@@ -1,4 +1,8 @@
 Computation and the Brain
+Professor Christos H. Papadimitriou
+
+Helen Jin
+Yi Jun Lim
 ------
 
 #### First Draft of Project Update (11/19/2019)
