@@ -2,10 +2,9 @@
 
 Professor Christos H. Papadimitriou
 
-Helen Jin
+Fall 2019
 
-Yi Jun Lim
-
+Helen Jin and Yi Jun Lim
 ------
 
 #### First Draft of Project Update (11/19/2019)
