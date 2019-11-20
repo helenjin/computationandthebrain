@@ -1,4 +1,4 @@
-Computation and the Brain
+# Computation and the Brain
 
 Professor Christos H. Papadimitriou
 
