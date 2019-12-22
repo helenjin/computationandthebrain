@@ -29,7 +29,7 @@ To build the Spiking Neural Network (SNN), we will incorporate many of these Hod
 
 
 #### Citations
-<https://doi.org/10.1016/j.neunet.2016.10.011>\
+<https://doi.org/10.1016/j.neunet.2016.10.011>
 
 Please note that our code was heavily influenced/based on, and both authors would like to thank their authors:
 <https://github.com/Shikhargupta/snn-brian-mlp/tree/master/simple_demo>
