@@ -46,7 +46,7 @@ def read_dataset():
 	# read_img()
 	# df = pd.read_csv('file.csv')
 	
-	df = df.as_matrix()
+	df = df.values
 	X = df[:,1:]
 	y = df[:,0]
 	return X,y

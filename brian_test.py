@@ -35,7 +35,7 @@ g_kd = 36*msiemens*cm**-2 * area
 VT = -63*mV
 
 if sick == 1:
-      EK = -78.98
+      EK = -78.98*mV
       ENa = 21.82*mV
 # EK = EK
 # ENa = ENa
