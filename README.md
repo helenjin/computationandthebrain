@@ -33,6 +33,7 @@ To build the Spiking Neural Network (SNN), we will incorporate many of these Hod
 
 Please note that our code was heavily influenced/based on, and both authors would like to thank their authors:
 <https://github.com/Shikhargupta/snn-brian-mlp/tree/master/simple_demo>
+https://hodgkin-huxley-tutorial.readthedocs.io/en/latest/_static/Tutorial.html
 
 
 
